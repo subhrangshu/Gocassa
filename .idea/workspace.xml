@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3795977-075b-409b-84fe-2e86b3c90181" name="Default Changelist" comment="" />
+    <list default="true" id="d3795977-075b-409b-84fe-2e86b3c90181" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimaryController/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/PrimaryController/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/create/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,26 +75,41 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="478" y="219" width="400" height="322" key="#Go_Modules" timestamp="1606155605526">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="478" y="219" width="400" height="322" key="#Go_Modules/0.0.1366.768@0.0.1366.768" timestamp="1606155605526" />
     <state x="278" y="44" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606153367711">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="278" y="44" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1606153367711" />
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1606154566491">
+    <state x="556" y="283" key="Github.ShareDialog" timestamp="1606156127039">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606154566491" />
-    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1606154566489">
+    <state x="556" y="283" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1606156127039" />
+    <state x="381" y="84" width="593" height="592" key="Github.UntrackedFilesDialog" timestamp="1606156155382">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606154566489" />
-    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1606154566487">
+    <state x="381" y="84" width="593" height="592" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1606156155382" />
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1606155633761">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606154566487" />
-    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1606154566490">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606155633761" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1606155633760">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606154566490" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606155633760" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1606155633760">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606155633760" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1606155633761">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606155633761" />
   </component>
 </project>
