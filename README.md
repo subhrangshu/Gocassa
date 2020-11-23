@@ -37,7 +37,10 @@ In case you find difficulty, contact me directly on WhatsApp on `+91-977-547-989
 
 
 Subhrangshu Adhikary
+
 B.Tech @ Dr. B.C. Roy Engineering College Durgapur,
+
 Managing Director @ Spiraldevs Automation Industries Pvt. Ltd., Raiganj
+
 West Bengal, India
 
